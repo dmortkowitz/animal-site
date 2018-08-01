@@ -1,0 +1,67 @@
+body {
+  background-color: red;
+}
+
+.title1 {
+  border: 2px solid white;
+  background-color: white;
+  font-weight: bolder;
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
+  }
+
+
+.borders {
+  padding: 8px;
+}
+
+.a {
+  border: 4px solid black;
+  background-color: pink;
+  float: left;
+  width: 47%;
+}
+
+.a p {
+  font-style: italic;
+}
+
+.b {
+  border: 4px solid pink;
+  background-color: white;
+  float: right;
+  width: 47%;
+}
+
+.b p{
+  color: blue;
+  font-style: italic;
+}
+
+.c p {
+  font-weight: bold;
+}
+
+.c {
+  border: 4px solid blue;
+  background-color: gold;
+  float: left;
+  margin-top: 20px;
+  width: 47%;
+}
+
+.d {
+  border: 4px solid orange;
+  background-color: green;
+  float: right;
+  margin-top: 20px;
+  width: 47%;
+}
+.d p{
+  font-weight: bold;
+}
+img {
+  width: 200px;
+  height: 150px;
+}
