@@ -1,8 +1,13 @@
 $(document).ready(function() {
-  $("button#buttonA").click(function() {
+  $("button#buttonA1").click(function() {
     $("#a").removeClass();
     $("#a").addClass("block1");
   });
+  $("button#buttonA2").click(function() {
+    $("#a").removeClass();
+    $("#a").addClass("a");
+  });
+
 
   $("button#buttonB").click(function() {
     $("#b").removeClass();
